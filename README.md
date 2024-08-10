@@ -7,7 +7,7 @@ an RC game controller by replacing its microcontroller.
 - Cheaper than a off the shelf gaming steering wheel
 - Comfortable ergonomics
 - Other controllers can be converted too
-- easier than 3d printng a remote
+- Easier than 3d printing a remote
 
 ![picRemote](https://github.com/RollPitchYall/HID-RC-Car-Remote/blob/main/Photos/Remote.jpg)
 
