@@ -21,6 +21,13 @@ an RC game controller by replacing its microcontroller.
 
 ![picRemote](https://github.com/RollPitchYall/HID-RC-Car-Remote/blob/main/Photos/OLED%20Indicator.jpg)
 
+## Libraries
+- Gamepad https://github.com/gamelaster/ArduinoGamepad
+- Adafruit_SSD1306.h
+- Adafruit_GFX.h
+- Wire.h
+
+
 ## Wiring
 
 | Component | Pin |
