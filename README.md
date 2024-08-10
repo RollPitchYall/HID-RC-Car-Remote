@@ -1,4 +1,4 @@
-# Traxxas RC Remote Conversion
+# Traxxas RC Remote as USB Game Controller
 ## _Using an Arduino Micro_
 
 This project uses the guts of a Traxxas remote to create
