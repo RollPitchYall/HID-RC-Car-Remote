@@ -56,7 +56,7 @@ an RC game controller by replacing its microcontroller.
 
 ## Development
 
-Want to contribute? Great! I'm new to github, you are welcome to make a pull request or whatever its called.
+Want to contribute? Great! You are welcome to make a pull request.
 
 ## License
 
